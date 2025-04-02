@@ -33,7 +33,7 @@
         <a class="nav-link" href="myplace.html">My Place</a>
       </li>
       
-    </ul>
+    
   </div>
 </nav>
 
@@ -47,15 +47,6 @@
         I specialize in front-end development using HTML, CSS, and JavaScript. In my free time, I enjoy exploring new technologies, 
         traveling, and learning about different cultures.</p>
       
-      <hr class="d-sm-none">
-    </div>
-    <div class="col-sm-8">
-      <h2>With friends</h2>
-      <h5>FEB 21, 2025</h5>
-      <img src="img/IMG_9522.JPG" width="350" alt="แมวส้มขาสั้น" height="220">
-      
-      
-    </div>
   </div>
 </div>
 
